@@ -28,8 +28,6 @@ Para executar este projeto, você precisará ter instalado:
 
 1. Clone o Repositório:
 
-bash
-Copiar código
 git clone https://github.com/Otilia-Marques/SistemaDeFacturacaoCs.git 
 cd SistemaDeFacturacaoCs
 
@@ -37,8 +35,6 @@ cd SistemaDeFacturacaoCs
 
 Configure a conexão com o banco de dados no arquivo de configuração apropriado (app.config, web.config, ou similar):
 
-plaintext
-Copiar código
 Data Source=seu-servidor-sql;Initial Catalog=seu-banco-de-dados;Integrated Security=True
 
 3. Executar o Projeto:
