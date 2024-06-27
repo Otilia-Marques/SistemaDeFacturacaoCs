@@ -266,5 +266,10 @@ namespace SistemadeFaturacao
         {
 
         }
+
+        private void comboativo_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

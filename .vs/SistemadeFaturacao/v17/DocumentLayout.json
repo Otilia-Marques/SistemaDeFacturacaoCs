@@ -1,12 +1,311 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariocrudvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariocrudvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariocrudusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariocrudusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariocrudproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariocrudproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formularioproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formularioproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariovalor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariovalor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariotaxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariotaxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariocrudvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariocrudvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariocrudtaxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariocrudtaxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariocrudcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariocrudcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariocrudtaxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariocrudtaxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\addproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:addproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|c:\\users\\dell\\documents\\sistemadefaturacao\\sistemadefaturacao\\formulariocrudproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E1D95F-3ABB-43C7-BB45-CA5B1025CE33}|SistemadeFaturacao.csproj|solutionrelative:formulariocrudproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormularioCRUDUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDUsuario.cs",
+              "RelativeDocumentMoniker": "FormularioCRUDUsuario.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDUsuario.cs [Design]",
+              "RelativeToolTip": "FormularioCRUDUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:26:22.222Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormularioCRUDVenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDVenda.cs",
+              "RelativeDocumentMoniker": "FormularioCRUDVenda.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDVenda.cs [Design]",
+              "RelativeToolTip": "FormularioCRUDVenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:27:07.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioCRUDProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDProduto.cs",
+              "RelativeDocumentMoniker": "FormularioCRUDProduto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDProduto.cs [Design]",
+              "RelativeToolTip": "FormularioCRUDProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:19:48.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormularioProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioProduto.cs",
+              "RelativeDocumentMoniker": "FormularioProduto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioProduto.cs [Design]",
+              "RelativeToolTip": "FormularioProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:35:02.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormularioVenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioVenda.cs",
+              "RelativeDocumentMoniker": "FormularioVenda.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioVenda.cs [Design]",
+              "RelativeToolTip": "FormularioVenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:41:51.51Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormularioValor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioValor.cs",
+              "RelativeDocumentMoniker": "FormularioValor.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioValor.cs [Design]",
+              "RelativeToolTip": "FormularioValor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:40:55.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormularioTaxa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioTaxa.cs",
+              "RelativeDocumentMoniker": "FormularioTaxa.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioTaxa.cs [Design]",
+              "RelativeToolTip": "FormularioTaxa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:38:00.541Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormularioUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioUsuario.cs",
+              "RelativeDocumentMoniker": "FormularioUsuario.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioUsuario.cs [Design]",
+              "RelativeToolTip": "FormularioUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:38:26.222Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormularioMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioMenu.cs",
+              "RelativeDocumentMoniker": "FormularioMenu.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioMenu.cs [Design]",
+              "RelativeToolTip": "FormularioMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:34:11.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormularioLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioLogin.cs",
+              "RelativeDocumentMoniker": "FormularioLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioLogin.cs [Design]",
+              "RelativeToolTip": "FormularioLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:33:23.403Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormularioDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioDashboard.cs",
+              "RelativeDocumentMoniker": "FormularioDashboard.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioDashboard.cs [Design]",
+              "RelativeToolTip": "FormularioDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:33:19.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormularioCRUDVenda.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDVenda.cs",
+              "RelativeDocumentMoniker": "FormularioCRUDVenda.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDVenda.cs",
+              "RelativeToolTip": "FormularioCRUDVenda.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAkwMsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:30:48.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormularioCRUDTaxa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDTaxa.cs",
+              "RelativeDocumentMoniker": "FormularioCRUDTaxa.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDTaxa.cs [Design]",
+              "RelativeToolTip": "FormularioCRUDTaxa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:22:50.517Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormularioCRUDCategoria.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDCategoria.cs",
+              "RelativeDocumentMoniker": "FormularioCRUDCategoria.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDCategoria.cs [Design]",
+              "RelativeToolTip": "FormularioCRUDCategoria.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:18:30.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormularioCRUDTaxa.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDTaxa.cs",
+              "RelativeDocumentMoniker": "FormularioCRUDTaxa.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDTaxa.cs",
+              "RelativeToolTip": "FormularioCRUDTaxa.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAgwA8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:23:34.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\AddProduto.cs",
+              "RelativeDocumentMoniker": "AddProduto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\AddProduto.cs [Design]",
+              "RelativeToolTip": "AddProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:22:40.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormularioCategoria.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCategoria.cs",
+              "RelativeDocumentMoniker": "FormularioCategoria.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCategoria.cs [Design]",
+              "RelativeToolTip": "FormularioCategoria.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:10:50.635Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormularioCRUDProduto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDProduto.cs",
+              "RelativeDocumentMoniker": "FormularioCRUDProduto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\SistemaDeFaturacao\\SistemadeFaturacao\\FormularioCRUDProduto.cs",
+              "RelativeToolTip": "FormularioCRUDProduto.cs",
+              "ViewState": "AQIAAOEBAAAAAAAAAAAgwPMBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:20:52.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

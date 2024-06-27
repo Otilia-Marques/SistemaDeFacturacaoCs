@@ -43,7 +43,8 @@
             // 
             // guna2Button1
             // 
-            this.guna2Button1.BorderRadius = 15;
+            this.guna2Button1.BorderColor = System.Drawing.Color.BlueViolet;
+            this.guna2Button1.BorderRadius = 20;
             this.guna2Button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
@@ -64,7 +65,7 @@
             // textvalor
             // 
             this.textvalor.AutoRoundedCorners = true;
-            this.textvalor.BorderRadius = 15;
+            this.textvalor.BorderRadius = 28;
             this.textvalor.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.textvalor.DefaultText = "";
             this.textvalor.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
@@ -116,7 +117,7 @@
             this.guna2ControlBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2ControlBox3.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MinimizeBox;
             this.guna2ControlBox3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.guna2ControlBox3.FillColor = System.Drawing.Color.Aqua;
+            this.guna2ControlBox3.FillColor = System.Drawing.Color.BlueViolet;
             this.guna2ControlBox3.HoverState.FillColor = System.Drawing.Color.SteelBlue;
             this.guna2ControlBox3.IconColor = System.Drawing.Color.White;
             this.guna2ControlBox3.Location = new System.Drawing.Point(322, 0);
@@ -130,7 +131,7 @@
             this.guna2ControlBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2ControlBox2.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MaximizeBox;
             this.guna2ControlBox2.Enabled = false;
-            this.guna2ControlBox2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(139)))), ((int)(((byte)(152)))), ((int)(((byte)(166)))));
+            this.guna2ControlBox2.FillColor = System.Drawing.Color.BlueViolet;
             this.guna2ControlBox2.HoverState.FillColor = System.Drawing.Color.Gray;
             this.guna2ControlBox2.IconColor = System.Drawing.Color.White;
             this.guna2ControlBox2.Location = new System.Drawing.Point(374, 0);

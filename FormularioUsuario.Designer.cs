@@ -86,7 +86,7 @@
             this.textid.ForeColor = System.Drawing.Color.Black;
             this.textid.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.textid.IconLeftSize = new System.Drawing.Size(30, 30);
-            this.textid.Location = new System.Drawing.Point(417, 22);
+            this.textid.Location = new System.Drawing.Point(152, 22);
             this.textid.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.textid.Name = "textid";
             this.textid.PasswordChar = '\0';
@@ -101,7 +101,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(305, 31);
+            this.label1.Location = new System.Drawing.Point(37, 31);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(110, 27);
             this.label1.TabIndex = 1;
@@ -109,16 +109,16 @@
             // 
             // guna2Button1
             // 
-            this.guna2Button1.BackColor = System.Drawing.Color.Aqua;
-            this.guna2Button1.BorderColor = System.Drawing.Color.White;
-            this.guna2Button1.BorderRadius = 15;
+            this.guna2Button1.BackColor = System.Drawing.Color.BlueViolet;
+            this.guna2Button1.BorderColor = System.Drawing.Color.BlueViolet;
+            this.guna2Button1.BorderRadius = 20;
             this.guna2Button1.BorderThickness = 1;
             this.guna2Button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button1.FillColor = System.Drawing.Color.Transparent;
+            this.guna2Button1.FillColor = System.Drawing.Color.Aqua;
             this.guna2Button1.Font = new System.Drawing.Font("Times New Roman", 16F);
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
             this.guna2Button1.HoverState.FillColor = System.Drawing.Color.Blue;

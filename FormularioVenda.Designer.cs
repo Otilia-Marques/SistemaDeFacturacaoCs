@@ -65,7 +65,7 @@
             // guna2Button4
             // 
             this.guna2Button4.BorderColor = System.Drawing.Color.BlueViolet;
-            this.guna2Button4.BorderRadius = 15;
+            this.guna2Button4.BorderRadius = 20;
             this.guna2Button4.BorderThickness = 1;
             this.guna2Button4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.guna2Button4.DisabledState.BorderColor = System.Drawing.Color.DarkGray;

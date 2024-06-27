@@ -64,7 +64,7 @@
             this.guna2Button4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button4.ForeColor = System.Drawing.Color.White;
             this.guna2Button4.HoverState.FillColor = System.Drawing.Color.Black;
-            this.guna2Button4.Location = new System.Drawing.Point(574, 421);
+            this.guna2Button4.Location = new System.Drawing.Point(460, 338);
             this.guna2Button4.Margin = new System.Windows.Forms.Padding(4);
             this.guna2Button4.Name = "guna2Button4";
             this.guna2Button4.Size = new System.Drawing.Size(202, 56);
@@ -84,7 +84,7 @@
             this.guna2Button3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button3.ForeColor = System.Drawing.Color.White;
             this.guna2Button3.HoverState.FillColor = System.Drawing.Color.Black;
-            this.guna2Button3.Location = new System.Drawing.Point(43, 421);
+            this.guna2Button3.Location = new System.Drawing.Point(27, 338);
             this.guna2Button3.Margin = new System.Windows.Forms.Padding(4);
             this.guna2Button3.Name = "guna2Button3";
             this.guna2Button3.Size = new System.Drawing.Size(202, 56);
@@ -104,7 +104,7 @@
             this.guna2Button1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
             this.guna2Button1.HoverState.FillColor = System.Drawing.Color.Black;
-            this.guna2Button1.Location = new System.Drawing.Point(307, 421);
+            this.guna2Button1.Location = new System.Drawing.Point(250, 338);
             this.guna2Button1.Margin = new System.Windows.Forms.Padding(4);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.Size = new System.Drawing.Size(202, 56);
@@ -127,7 +127,7 @@
             this.texttaxa.ForeColor = System.Drawing.Color.Black;
             this.texttaxa.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.texttaxa.IconLeftSize = new System.Drawing.Size(30, 30);
-            this.texttaxa.Location = new System.Drawing.Point(27, 180);
+            this.texttaxa.Location = new System.Drawing.Point(27, 135);
             this.texttaxa.Margin = new System.Windows.Forms.Padding(5, 7, 5, 7);
             this.texttaxa.Name = "texttaxa";
             this.texttaxa.PasswordChar = '\0';
@@ -147,7 +147,7 @@
             this.guna2Panel2.Location = new System.Drawing.Point(0, 0);
             this.guna2Panel2.Margin = new System.Windows.Forms.Padding(4);
             this.guna2Panel2.Name = "guna2Panel2";
-            this.guna2Panel2.Size = new System.Drawing.Size(810, 77);
+            this.guna2Panel2.Size = new System.Drawing.Size(723, 77);
             this.guna2Panel2.TabIndex = 32;
             // 
             // quantidadeusuarios
@@ -167,10 +167,10 @@
             this.guna2ControlBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2ControlBox3.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MinimizeBox;
             this.guna2ControlBox3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.guna2ControlBox3.FillColor = System.Drawing.Color.Aqua;
+            this.guna2ControlBox3.FillColor = System.Drawing.Color.BlueViolet;
             this.guna2ControlBox3.HoverState.FillColor = System.Drawing.Color.SteelBlue;
             this.guna2ControlBox3.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox3.Location = new System.Drawing.Point(621, 0);
+            this.guna2ControlBox3.Location = new System.Drawing.Point(534, 0);
             this.guna2ControlBox3.Margin = new System.Windows.Forms.Padding(4);
             this.guna2ControlBox3.Name = "guna2ControlBox3";
             this.guna2ControlBox3.Size = new System.Drawing.Size(65, 54);
@@ -181,10 +181,10 @@
             this.guna2ControlBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2ControlBox2.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MaximizeBox;
             this.guna2ControlBox2.Enabled = false;
-            this.guna2ControlBox2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(139)))), ((int)(((byte)(152)))), ((int)(((byte)(166)))));
+            this.guna2ControlBox2.FillColor = System.Drawing.Color.BlueViolet;
             this.guna2ControlBox2.HoverState.FillColor = System.Drawing.Color.Gray;
             this.guna2ControlBox2.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox2.Location = new System.Drawing.Point(684, 0);
+            this.guna2ControlBox2.Location = new System.Drawing.Point(597, 0);
             this.guna2ControlBox2.Margin = new System.Windows.Forms.Padding(4);
             this.guna2ControlBox2.Name = "guna2ControlBox2";
             this.guna2ControlBox2.Size = new System.Drawing.Size(65, 54);
@@ -197,7 +197,7 @@
             this.guna2ControlBox1.FillColor = System.Drawing.Color.Red;
             this.guna2ControlBox1.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.guna2ControlBox1.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox1.Location = new System.Drawing.Point(746, 0);
+            this.guna2ControlBox1.Location = new System.Drawing.Point(659, 0);
             this.guna2ControlBox1.Margin = new System.Windows.Forms.Padding(4);
             this.guna2ControlBox1.Name = "guna2ControlBox1";
             this.guna2ControlBox1.Size = new System.Drawing.Size(65, 54);
@@ -232,7 +232,7 @@
             this.textdescricao.ForeColor = System.Drawing.Color.Black;
             this.textdescricao.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.textdescricao.IconLeftSize = new System.Drawing.Size(30, 30);
-            this.textdescricao.Location = new System.Drawing.Point(374, 180);
+            this.textdescricao.Location = new System.Drawing.Point(374, 135);
             this.textdescricao.Margin = new System.Windows.Forms.Padding(5, 7, 5, 7);
             this.textdescricao.Name = "textdescricao";
             this.textdescricao.PasswordChar = '\0';
@@ -255,11 +255,12 @@
             this.comboativo.Items.AddRange(new object[] {
             "Ativa",
             "Inativa"});
-            this.comboativo.Location = new System.Drawing.Point(43, 305);
+            this.comboativo.Location = new System.Drawing.Point(27, 217);
             this.comboativo.Margin = new System.Windows.Forms.Padding(4);
             this.comboativo.Name = "comboativo";
-            this.comboativo.Size = new System.Drawing.Size(452, 36);
+            this.comboativo.Size = new System.Drawing.Size(357, 36);
             this.comboativo.TabIndex = 38;
+            this.comboativo.SelectedIndexChanged += new System.EventHandler(this.comboativo_SelectedIndexChanged);
             // 
             // guna2DateTimePicker1
             // 
@@ -269,12 +270,12 @@
             this.guna2DateTimePicker1.FillColor = System.Drawing.Color.White;
             this.guna2DateTimePicker1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2DateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.guna2DateTimePicker1.Location = new System.Drawing.Point(549, 301);
+            this.guna2DateTimePicker1.Location = new System.Drawing.Point(425, 217);
             this.guna2DateTimePicker1.Margin = new System.Windows.Forms.Padding(4);
             this.guna2DateTimePicker1.MaxDate = new System.DateTime(9000, 12, 31, 0, 0, 0, 0);
             this.guna2DateTimePicker1.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
             this.guna2DateTimePicker1.Name = "guna2DateTimePicker1";
-            this.guna2DateTimePicker1.Size = new System.Drawing.Size(200, 40);
+            this.guna2DateTimePicker1.Size = new System.Drawing.Size(261, 40);
             this.guna2DateTimePicker1.TabIndex = 39;
             this.guna2DateTimePicker1.Value = new System.DateTime(2024, 6, 26, 1, 0, 0, 0);
             // 
@@ -282,7 +283,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(38, 131);
+            this.label1.Location = new System.Drawing.Point(22, 101);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(143, 27);
             this.label1.TabIndex = 40;
@@ -292,7 +293,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(384, 136);
+            this.label2.Location = new System.Drawing.Point(369, 101);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(189, 27);
             this.label2.TabIndex = 41;
@@ -303,7 +304,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(38, 251);
+            this.label3.Location = new System.Drawing.Point(22, 186);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(159, 27);
             this.label3.TabIndex = 42;
@@ -315,7 +316,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 22F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.BlueViolet;
-            this.ClientSize = new System.Drawing.Size(810, 542);
+            this.ClientSize = new System.Drawing.Size(723, 432);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
