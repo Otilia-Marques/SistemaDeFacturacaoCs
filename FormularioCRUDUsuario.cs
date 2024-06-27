@@ -136,7 +136,7 @@ namespace SistemadeFaturacao
                             // Verifica o resultado e mostra a mensagem apropriada
                             if (resultado == 1)
                             {
-                                MessageBox.Show("O email digitado já existe, escolha outro", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                                MessageBox.Show("O email digitado já existe!", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                             conn.Close();
                         }
                             else
@@ -279,7 +279,7 @@ namespace SistemadeFaturacao
                         int result = (int)reader["Result"];
                         if (result == 1)
                         {
-                            MessageBox.Show("O email já existe na base de dados.");
+                            MessageBox.Show("O email já existe!");
                         }
                         else
                         {
@@ -326,7 +326,7 @@ namespace SistemadeFaturacao
                 else
                 {
 
-                    DialogResult dr = MessageBox.Show("Tem a certeza de que deseja eliminar esse usuário?", "Mensagem", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
+                    DialogResult dr = MessageBox.Show("Deseja eliminar esse usuário?", "Mensagem", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
                     if (dr == DialogResult.Yes)
                     {
                         FormularioUsuario.instance.FormularioUsuario_Shown(null, null);

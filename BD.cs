@@ -11,10 +11,8 @@ namespace SistemadeFaturacao
     {
         private static String conString = "Data Source=MARTINA-TINI;Initial Catalog=SistemaDeFacturacao;Integrated Security=True;Encrypt=True;TrustServerCertificate=True";
         SqlConnection conn = new SqlConnection(conString);
-        public BD()
-        {
-
-        }
+        public BD() { }
+       
         public SqlConnection conexao()
         {
             return conn;

@@ -32,13 +32,15 @@
             // 
             // FormularioDashboard
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(946, 621);
+            this.ClientSize = new System.Drawing.Size(1064, 776);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "FormularioDashboard";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "FormularioDashboard";
+            this.Load += new System.EventHandler(this.FormularioDashboard_Load);
             this.ResumeLayout(false);
 
         }

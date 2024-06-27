@@ -16,5 +16,10 @@ namespace SistemadeFaturacao
         {
             InitializeComponent();
         }
+
+        private void FormularioDashboard_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

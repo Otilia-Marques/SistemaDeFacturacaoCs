@@ -183,7 +183,7 @@ namespace SistemadeFaturacao
                             int result = (int)reader["Result"];
                             if (result == 1)
                             {
-                                MessageBox.Show("A taxa já existe na base de dados.");
+                                MessageBox.Show("A taxa já existe!");
                             }
                             else
                             {

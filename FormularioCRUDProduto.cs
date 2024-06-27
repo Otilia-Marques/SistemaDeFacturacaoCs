@@ -284,7 +284,7 @@ namespace SistemadeFaturacao
 
                                                     if (resultado == 1)
                                                     {
-                                                        MessageBox.Show("O código de barra digitado já existe, escolha outro", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                                                        MessageBox.Show("O código de barra digitado já existe!", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                                                         conn.Close();
                                                     }
                                                     else

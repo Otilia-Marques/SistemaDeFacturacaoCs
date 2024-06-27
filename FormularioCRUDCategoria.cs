@@ -115,7 +115,7 @@ namespace SistemadeFaturacao
                     int result = (int)reader["Result"];
                     if (result == 1)
                     {
-                        MessageBox.Show("O nome já existe na base de dados.");
+                        MessageBox.Show("O Nome já existe!");
                     }
                     else
                     {

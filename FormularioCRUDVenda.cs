@@ -214,7 +214,7 @@ namespace SistemadeFaturacao
                 decimal preco = Convert.ToDecimal(selectedRow.Cells["preco"].Value);
                 decimal taxa_iva = Convert.ToDecimal(selectedRow.Cells["taxa_iva"].Value);
 
-                DialogResult dr = MessageBox.Show("Tem a certeza de que deseja eliminar esse produto?", "Mensagem", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
+                DialogResult dr = MessageBox.Show("Deseja eliminar esse Produto?", "Mensagem", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
                 if (dr == DialogResult.Yes)
                 {
 
@@ -271,7 +271,7 @@ namespace SistemadeFaturacao
 
         private void guna2ControlBox1_Click(object sender, EventArgs e)
         {
-            DialogResult dr = MessageBox.Show("Tem a certeza de que deseja cancelar essa venda?", "Mensagem", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
+            DialogResult dr = MessageBox.Show("Cancelar essa Venda?", "Mensagem", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
             if (dr == DialogResult.Yes)
             {
 
@@ -349,7 +349,7 @@ if ((dsc < 0) || (dsc > 100))
              
 
 
-                    DialogResult dr = MessageBox.Show("Deseja realizar a venda?", "Mensagem", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
+                    DialogResult dr = MessageBox.Show("Realizar a venda?", "Mensagem", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
                     if (dr == DialogResult.Yes)
                     {
 
@@ -400,7 +400,7 @@ if ((dsc < 0) || (dsc > 100))
                             GerarPdf(GetFilePath());
                             totaltotal = 0;
                             
-                            MessageBox.Show("Venda feita com sucesso!");
+                            MessageBox.Show("Venda Efectuada com Sucesso!");
 
                             dt = null;
                             vendaid = 0;
@@ -408,7 +408,7 @@ if ((dsc < 0) || (dsc > 100))
                         }
                         else
                         {
-                            MessageBox.Show("A venda foi cancelada", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                            MessageBox.Show("A Venda foi Cancelada", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                         }
 
 
@@ -427,14 +427,8 @@ if ((dsc < 0) || (dsc > 100))
                 }
                 else
                 {
-                    MessageBox.Show("Coloque algum produto no carrinho", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                    MessageBox.Show("Selecione Algum Produto", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 }
-
-
-
-            
-
-
 
         }
 
@@ -506,32 +500,29 @@ if ((dsc < 0) || (dsc > 100))
                     Document document = new Document(pdf);
 
                     // Add header with company information
-                    Paragraph header = new Paragraph("FATURA")
+                    Paragraph header = new Paragraph("FATURA BEBESUKI'STORE")
                         .SetTextAlignment(TextAlignment.CENTER)
                         .SetFontSize(20)
                         .SetBold();
                     document.Add(header);
 
-                    LineSeparator separator = new LineSeparator(new SolidLine());
-                    document.Add(separator);
+                    //LineSeparator separator = new LineSeparator(new SolidLine());
+                    //document.Add(separator);
 
                     // Company info
                     Paragraph companyInfo = new Paragraph()
-                        .Add("Nome da empresa: Bebesuki'Store\n")
+                        .Add("Nome da Loja: Bebesuki'Store\n")
                         .Add("Endereço: Talatona, Rua 12\n")
-                        .Add("Tel: 949315181\n")
+                        .Add("Telefone: 949315181\n")
                         .Add("Email:otiliaelidaniamarques777@gmail.com\n")
                         .Add($"Data: {DateTime.Now}\n")
 
-.Add("Fatura N.º " + vendaid.ToString() + "\n")
+                        .Add("Fatura N.º " + vendaid.ToString() + "\n")
 
-
-
-                        .Add("Página 1 de 1")
                         .SetMarginTop(10);
                     document.Add(companyInfo);
 
-                    document.Add(separator);
+                    //document.Add(separator);
 
 
                     // Attended by
@@ -593,7 +584,7 @@ if ((dsc < 0) || (dsc > 100))
                     totalsTable.AddCell(new Cell().Add(new Paragraph(subtotal.ToString("F2") + " kz")).SetTextAlignment(TextAlignment.RIGHT).SetBorder(Border.NO_BORDER));
                     totalsTable.AddCell(new Cell().Add(new Paragraph("Desconto")).SetBorder(Border.NO_BORDER));
                     totalsTable.AddCell(new Cell().Add(new Paragraph(desconto.ToString() + "%")).SetTextAlignment(TextAlignment.RIGHT).SetBorder(Border.NO_BORDER));
-                    totalsTable.AddCell(new Cell().Add(new Paragraph("Valor dado pelo cliente")).SetBorder(Border.NO_BORDER));
+                    totalsTable.AddCell(new Cell().Add(new Paragraph("Valor dado pelo Cliente")).SetBorder(Border.NO_BORDER));
                     totalsTable.AddCell(new Cell().Add(new Paragraph(FormularioValor.instance.valor().ToString() + " kz")).SetTextAlignment(TextAlignment.RIGHT).SetBorder(Border.NO_BORDER));
                     totalsTable.AddCell(new Cell().Add(new Paragraph("Tipo de Pagamento")).SetBorder(Border.NO_BORDER));
                     totalsTable.AddCell(new Cell().Add(new Paragraph(FormularioValor.instance.paga())).SetTextAlignment(TextAlignment.RIGHT).SetBorder(Border.NO_BORDER));
@@ -630,33 +621,30 @@ if ((dsc < 0) || (dsc > 100))
                     Document document = new Document(pdf);
 
                     // Add header with company information
-                    Paragraph header = new Paragraph("FATURA")
+                    Paragraph header = new Paragraph("FATURA BEBESUKI'STORE")
                         .SetTextAlignment(TextAlignment.CENTER)
                         .SetFontSize(20)
                         .SetBold();
                     document.Add(header);
 
-                    LineSeparator separator = new LineSeparator(new SolidLine());
-                    document.Add(separator);
+                    //LineSeparator separator = new LineSeparator(new SolidLine());
+                    //document.Add(separator);
 
                     // Company info
                     Paragraph companyInfo = new Paragraph()
                         
-                        .Add("Nome da empresa: Bebesuki'Store\n")
+                        .Add("Nome da Loja: Bebesuki'Store\n")
                         .Add("Endereço: Talatona, Rua 12\n")
                         .Add("Tel: 949315181\n")
                         .Add("Email:otiliaelidaniamarques777@gmail.com\n")
                         .Add($"Data: {DateTime.Now}\n")
 
-.Add("Fatura N.º " + vendaid.ToString() + "\n")
+                        .Add("Fatura N.º " + vendaid.ToString() + "\n")
 
-
-
-                        .Add("Página 1 de 1")
                         .SetMarginTop(10);
                     document.Add(companyInfo);
 
-                    document.Add(separator);
+                    //document.Add(separator);
 
 
                     // Attended by
